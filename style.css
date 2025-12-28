@@ -337,6 +337,11 @@ section{
     background-color: #6d7eb8;
 }
 
+.skills .content .col-right .bar .sql::before{
+    width: 45%;
+    background-color: #4CAF50;
+}
+
 /* Services */
 
 .services .content{
@@ -461,7 +466,7 @@ section{
   
   .contact .content .row .card{
     background: #fff;
-    width: 240px;
+    width: 380px;
     margin: 20px;
     padding: 25px;
     display: flex;
